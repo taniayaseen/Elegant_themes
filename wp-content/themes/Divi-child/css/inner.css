@@ -1,0 +1,226 @@
+/* about_us */
+:root {
+    --font:'bad-grunge';
+}
+.about_banner_1 {
+    background-position: top;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 70px !important;
+    padding-top: 200px !important;
+}
+
+.about_banner_heading h2 {
+    font-size: 140px;
+    text-align: center;
+    color: #ee6435 !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 0.7em;
+}
+.about_banner_heading h3 {
+    font-family: var(--font);
+    padding-bottom: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #ee6435;
+    padding-top: 0;
+    line-height: 1em;
+    font-weight: 500;
+}
+.about_banner_2 {
+    background-position: 75%;
+    background-color: #030c1a!important;
+}
+
+.about_banner2_hp h2 {
+    font-size: 75px;
+    color: #000;
+    line-height: 0.6em;
+    padding-bottom: 50px;
+    word-wrap: break-word;
+    width:62%;
+    margin-left: 0 !important;
+}
+span.about_clr {
+    color: white;
+    font-size: 55px;
+    line-height: 0.6em;
+}
+.about_banner2_hp p{
+    width:62%;
+    padding-bottom: 50px;
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 42px;
+    word-wrap: break-word;
+    margin-left: 0 !important;
+}
+.about_banner_3 {
+    background-color: #030c1a!important;
+    background-position: 23%;
+}
+.aboutus_banner3_hp h2 {
+    font-size: 75px;
+    color: #000;
+    line-height: 0.6em;
+    padding-bottom: 50px;
+}
+span.about3_clr {
+    font-size: 55px;
+    color: #fff;
+    line-height: 0.6em;
+}
+.aboutus_banner3_hp p{
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 42px;
+}
+.et_pb_row.et_pb_row_2 {
+    display: flex;
+    justify-content: flex-end;
+    /* padding: 0 0; */
+    margin-top: 1px!important;
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+.et_pb_column.et_pb_column_4_4.et_pb_column_2.et_pb_css_mix_blend_mode_passthrough.et-last-child {
+    width: 62%;
+}
+abbr.required {
+    display: none;
+}
+.abt_form_heading h2 {
+    font-size: 79px;
+    line-height: 0.6em;
+    color: #fff;
+}
+input#pie-2-field_OwA2n5vqy8-3 {
+    border: none;
+    background: #ffffff;
+    border-radius: 200px;
+    margin-top: 20px;
+    width: 80%;
+    padding: 20px 30px;
+}
+button#pie-submit-2 {
+    background-color: #EE6435;
+    /* height: 61.5px; */
+    padding: 16px 30px;
+    color: #fff;
+    border: none;
+    border-radius: 0px 30px 30px 0px;
+    font-size: 20px;
+    font-family: 'Coda' !important;
+}
+.abt_booknow_btn {
+    color: white;
+    background-color: #EE6435;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 35px;
+    font-size: 20px;
+    font-family: 'Coda';
+}
+/* contact_us */
+.contact_banner {
+    background-position: top;
+    overflow: hidden;
+    padding-bottom: 70px !important;
+    padding-top: 192px !important;
+}
+.contact_banner_heading.et_pb_text_align_left.et_pb_bg_layout_light h2 {
+    font-size: 140px;
+    text-align: center;
+    color: #ee6435;
+    padding-top: 0;
+    padding-bottom: 150px;
+}
+.et_pb_row.et_pb_row_1 {
+    display: flex;
+    align-items: center;
+}
+.map_info h4 {
+    color: #fff;
+    font-size: 25px;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    line-height: 1em;
+    font-weight: 500;
+    font-family: 'Coda';
+    margin-top: 20px;
+}
+.map_info h3 {
+    color: #fff;
+    font-size: 30px;
+    padding: 0 100px 30px 100px;
+    font-family: var(--font);
+    line-height: 1em;
+    font-weight: 500;
+
+}
+.contact_banner_2 p {
+    padding: 0 200px;
+    line-height: 1.4em;
+    margin-bottom: 80px;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.et_pb_module.et_pb_code.et_pb_code_0.final_form {
+    display: flex;
+    flex-wrap: wrap;
+}
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    width: 152%;
+    padding: 10px;
+    font-size: 20px!important;
+    background: #FFFFFF;
+    border-radius: 49px;
+    height: 65px;
+    display: flex;
+    padding-left: 30px !important;
+    border: 1px solid #bbb;
+    line-height: 1.7em;
+    margin-bottom: 20px;
+}
+textarea.wpcf7-form-control.wpcf7-textarea {
+    width: 152%;
+    height: 100px;
+    font-size: 20px!important;
+    resize: none;
+    height: 128px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    padding: 10px 30px !important;
+    margin-bottom: 40px;
+}
+input.wpcf7-form-control.has-spinner.wpcf7-submit.submit_form {
+    padding: 10px 30px;
+    font-size: 20px;
+    color: #fff;
+    background: #EE6435;
+    border-radius: 100px;
+    font-weight: 400;
+    border: none;
+    cursor: pointer;
+}
+.contact_booknow {
+    color: white;
+    background-color:#EE6435;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 35px;
+    font-size: 20px; 
+    margin-right: 0%;
+}
+#top-menu>li:last-child {
+    padding-right: 0;
+    background-color: orange;
+    font-size: 18px;
+    padding: 0 55px;
+    border-radius: 100px;
+}
+#main-header div#et-top-navigation ul#top-menu li#menu-item-147 > a {
+    color: white;
+}
